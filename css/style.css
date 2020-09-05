@@ -205,6 +205,22 @@ a:hover {
 .short-desc-txt table tr td {
 	padding: 5px;
 }
+.short-desc-txt img,
+.short-desc-txt h6,
+.short-desc-txt h5,
+.short-desc-txt h4,
+.short-desc-txt h3,
+.short-desc-txt h2,
+.short-desc-txt h1,
+.short-desc-txt ol,
+.short-desc-txt ul,
+.short-desc-txt table {
+	margin-bottom: 15px;
+}
+.short-desc-txt ol,
+.short-desc-txt ul {
+	padding-left: 18px;
+}
 
 .short-desc-price {
 	font-size: 30px;
